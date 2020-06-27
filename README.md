@@ -1,2 +1,2 @@
 # four-card-feature-frontendmentor.io
-Solution to an challenge.
+Solution to a challenge.
