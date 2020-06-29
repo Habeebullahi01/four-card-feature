@@ -64,7 +64,7 @@ header {
 .card4 {
   border-top:4px solid hsl(212, 86%, 64%);
 }
-@media (min-width:1440px) {
+@media (min-width:1240px) {
 header {
   width:50%;
   margin:0 auto;
