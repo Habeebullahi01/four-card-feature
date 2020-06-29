@@ -23,6 +23,7 @@ header {
 }
 .card-text{
   margin-bottom: 0;
+  color: hsl(234, 12%, 34%);
 }
 .image {
   margin:0 0 0 -1em;
@@ -33,14 +34,15 @@ header {
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: rgb(0, 0, 150); }
 
-/* .cards {
+ .cards {
   width:90%;
   margin:0 auto;
   text-align: center;
-} */
+} 
 
 .card {
-  width:22em;
+  min-width:15em;
+  width:30%;
   height:auto;
   padding:10px;
   text-align: left;
